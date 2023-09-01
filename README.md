@@ -1,3 +1,3 @@
-# minhle10.github.io
+# Portfolio website with 3js
 
 Personal website of Minh Le.
